@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbflow"
+  site-url: "https://threefoldo.github.io/nbflow"
+  description: "Dialog-based development workflow, inspired by nbdev."
+  repo-branch: main
+  repo-url: "https://github.com/threefoldo/nbflow"
